@@ -17,7 +17,7 @@ http://archive.ics.uci.edu/ml/datasets/Adult
 
 Dataset(s) Description
 
-Request you to go to the link given above and read in details about the feature description.
-It will give you a detailed idea about all the features avaibale in the dataset.
-If you follow the link and see the data folder, you will get two files there one for train and one for test.
-So, when we are doing this lab activity, we do not have to split for train and test, instead we need to use and process both the files separately and complete the lab activity. adult_train.csv and adult_test.csv.
+* Request you to go to the link given above and read in details about the feature description.
+* It will give you a detailed idea about all the features avaibale in the dataset.
+* If you follow the link and see the data folder, you will get two files there one for train and one for test.
+* So, when we are doing this lab activity, we do not have to split for train and test, instead we need to use and process both the files separately and complete the lab activity. adult_train.csv and adult_test.csv.
